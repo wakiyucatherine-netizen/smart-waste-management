@@ -1,0 +1,51 @@
+Bin_ID,Fill_Level,Future_Fill_Level,Bin_Status
+BIN001,24,33,Normal
+BIN001,30,42,Normal
+BIN001,61,73,Normal
+BIN001,70,82,Warning
+BIN001,81,94,Warning
+BIN001,84,93,Warning
+BIN001,84,97,Warning
+BIN001,92,100,Collection Required
+BIN001,96,97,Collection Required
+BIN001,97,100,Collection Required
+BIN002,11,18,Normal
+BIN002,11,20,Normal
+BIN002,12,20,Normal
+BIN002,31,32,Normal
+BIN002,33,45,Normal
+BIN002,39,47,Normal
+BIN002,47,55,Normal
+BIN002,62,73,Normal
+BIN002,73,76,Warning
+BIN002,97,98,Collection Required
+BIN003,30,38,Normal
+BIN003,31,34,Normal
+BIN003,42,45,Normal
+BIN003,51,52,Normal
+BIN003,58,69,Normal
+BIN003,67,72,Normal
+BIN003,68,78,Normal
+BIN003,69,76,Normal
+BIN003,85,95,Warning
+BIN003,98,100,Collection Required
+BIN004,24,36,Normal
+BIN004,56,63,Normal
+BIN004,60,69,Normal
+BIN004,64,72,Normal
+BIN004,69,81,Normal
+BIN004,71,73,Warning
+BIN004,71,72,Warning
+BIN004,71,78,Warning
+BIN004,73,80,Warning
+BIN004,89,100,Warning
+BIN005,12,20,Normal
+BIN005,13,18,Normal
+BIN005,16,19,Normal
+BIN005,27,39,Normal
+BIN005,30,38,Normal
+BIN005,48,54,Normal
+BIN005,60,71,Normal
+BIN005,69,72,Normal
+BIN005,82,83,Warning
+BIN005,98,100,Collection Required
