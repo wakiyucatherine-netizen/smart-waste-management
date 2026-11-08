@@ -57,9 +57,9 @@ prediction = max(0, min(100, prediction))
 
 st.metric("Predicted Future Fill Level", f"{prediction:.2f}%")
 
-if prediction >= 90:
+if prediction > 80:
     st.error("Collection Required")
-elif prediction >= 70:
+elif prediction > 70:
     st.warning("Prepare for Waste Collection")
 else:
     st.success("Bin is Normal")
